@@ -1,2 +1,2 @@
-# Whatsapp_development
-The repository is to develop a chat application
+# dataTypes in java
+The repository is to learn data types in java
