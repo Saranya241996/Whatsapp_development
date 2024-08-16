@@ -26,8 +26,9 @@ public class DataTypes {
 	    double d2=5;
 	    
 	    System.out.println(d1);
+
+	    System.out.println(d2);
 	   
-	    
 	    //character, it takes alphabets, which is in single quotes ''
 	   
 	    /* Note: If we are giving an integer or double value in single quotes, it will be consider as character 
