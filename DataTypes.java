@@ -32,9 +32,9 @@ public class DataTypes {
 	    //character, it takes alphabets, which is in single quotes ''
 	   
 	    /* Note: If we are giving an integer or double value in single quotes, it will be consider as character 
-	     (Note it should be only one character like 'a','1' not as more than one value example: 'ab', '100')*/
+	    
+     (Note: it should be only one character like 'a','1' not as more than one value example: 'ab', '100')*/
 	   
-	  
 	   char c='a';
 	   
 	   char c1='1';
